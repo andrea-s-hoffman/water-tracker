@@ -1,0 +1,19 @@
+.hide {
+  display: none;
+}
+
+.progress-bar {
+  position: relative;
+  height: 100px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: blue;
+  /* width: 50%; */
+}
